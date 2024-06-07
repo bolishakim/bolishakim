@@ -23,7 +23,7 @@ Experienced banking professional with over a decade in internal audit, complianc
 Analyzed sentiment in Reddit posts across four crypto subreddits using Python. Normalized data for accurate sentiment evaluation. Explored correlations between sentiment and Bitcoin price fluctuations, providing insights into social media’s impact on crypto markets.
 
 ### House Price Prediction
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bolishakim&repo=house-price-prediction&theme=radical)](https://github.com/bolishakim/house-price-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bolishakim&repo=House-Price-Prediction-Project&theme=radical)](https://github.com/bolishakim/House-Price-Prediction-Project)
 
 Developed a model to estimate house prices using a synthetic dataset. Conducted EDA and preprocessed data for accurate predictions. Trained and evaluated Linear Regression, Random Forest, and Gradient Boosting models. Identified affordable houses within budget.
 

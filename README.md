@@ -17,6 +17,11 @@ Experienced banking professional with over a decade in internal audit, complianc
 
 ## 📂 Projects
 
+### Spotify Most Streamed Songs Database Project
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bolishakim&repo=Spotify-Most-Streamed-Songs-Database-Project&theme=radical)](https://github.com/bolishakim/Spotify-Most-Streamed-Songs-Database-Project)
+
+Created a PostgreSQL database to analyze trends in Spotify’s most streamed songs. Designed tables to store artist, track, and platform metrics, performed SQL queries to extract insights, and analyzed the correlation between track features and streaming popularity. 
+
 ### Crypto Sentiment Analysis
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bolishakim&repo=crypto-sentiment-analysis&theme=radical)](https://github.com/bolishakim/crypto-sentiment-analysis)
 
@@ -106,9 +111,3 @@ Feel free to reach out to me for any collaboration opportunities or just to say 
 ## 📜 License
 
 This profile README is licensed under the MIT License.
-
-
-<!---
-bolishakim/bolishakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -20,8 +20,7 @@ Experienced banking professional with over a decade in internal audit, complianc
 ### Time Series Detectives Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bolishakim&repo=TimeSeriesDetectives&theme=radical)](https://github.com/bolishakim/TimeSeriesDetectives)
 
-Worked on anomaly detection in time series data using cutting-edge methods. Explored different models to identify anomalies and create a reliable system for time series forecasting and anomaly detection.
-
+Developed a time series anomaly detection model using the K-Nearest Neighbors (KNN) algorithm. Implemented a method to detect anomalies by analyzing the distance between data points and their nearest neighbors in time series data. Fine-tuned the model to improve accuracy and identify irregular patterns effectively in temporal sequences.
 ### Spotify Most Streamed Songs Database Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bolishakim&repo=Spotify-Most-Streamed-Songs-Database-Project&theme=radical)](https://github.com/bolishakim/Spotify-Most-Streamed-Songs-Database-Project)
 
